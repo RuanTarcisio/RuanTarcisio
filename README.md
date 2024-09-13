@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá eu sou Ruan Tarcisio 👋🏾
 
-<!--
-**RuanTarcisio/RuanTarcisio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor Java e entusiasta de sistemas distribuídos. Trabalho com arquitetura de microserviços, APIs RESTful e estou sempre buscando aprender algo novo. Atualmente, estou focado em desenvolver soluções escaláveis com Spring Boot e React.js.
 
-Here are some ideas to get you started:
+## ⚡ Tecnologias e Ferramentas:
+- Java
+- Spring Boot
+- Docker
+- PostgreSQL
+- Git
+- React.js
+- AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Projetos em Destaque
+- [Sistema de Gerenciamento da Olimpiada](https://github.com/RuanTarcisio/olympic_medals) - Um sistema que gerencia tudo sobre a olimpiada, mensageria(rabbitmq) para informar seguidores de determinado pais sempre quando ganharem medalhas.
+- [Sistema de Gerenciamento de Transporte Urbano](https://github.com/seuusuario/projeto-transporte) - Gerenciamento de ônibus e rotas, incluindo análise de polos de viagens.
+- [Galactic Voyagers](https://github.com/seuusuario/galactic-voyagers) - Sistema de reservas para viagens espaciais, com padrões de projeto como Singleton e Abstract Factory.
+
+## 📊 Estatísticas do GitHub:
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical)
+
+## 🔗 Entre em Contato:
+- [LinkedIn](https://www.linkedin.com/in/ruan-tarcisio-307405300)
+- [E-mail](mailto:ruantarciisio@gmail.com)
