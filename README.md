@@ -1,7 +1,7 @@
 ## Olá! Eu me chamo Ruan Tarcisio👋🏾
 
  
-Apaixonado por tecnologia e pelo desenvolvimento de softwares, com o propósito de transformar vidas através da programação, sou um desenvolvedor Java comprometido com soluções inovadoras. Programo em arquitetura de microserviços e APIs RESTful, estou sempre buscando expandir meus conhecimentos. Atualmente, meu foco é criar soluções escaláveis e de alto desempenho utilizando Spring Boot no backend. Estou na eterna para o conhecimento, sempre em busca de aprender e implementar novas tecnologias, acredito no poder da programação para criar impacto positivo.
+Apaixonado por tecnologia e pelo desenvolvimento de softwares, com o propósito de transformar vidas através da programação, sou um desenvolvedor FullStack comprometido com soluções inovadoras. Programo em arquitetura de microserviços e APIs RESTful, estou sempre buscando expandir meus conhecimentos. Atualmente, meu foco é criar soluções escaláveis e de alto desempenho utilizando Spring Boot no backend. Estou na eterna para o conhecimento, sempre em busca de aprender e implementar novas tecnologias, acredito no poder da programação para criar impacto positivo.
 
 
 
@@ -17,16 +17,17 @@ Apaixonado por tecnologia e pelo desenvolvimento de softwares, com o propósito 
 
 </div><br/>
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruantarcisio&theme=blue-green&show_icons=true)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RuanTarcisio&theme=blue-green&show_icons=true)
 
 
 
 ### 🌟 Projetos em Destaque
 - [Sistema de Gerenciamento da Olimpiada](https://github.com/RuanTarcisio/olympic_medals) - Um sistema que gerencia tudo sobre a olimpiada, mensageria(rabbitmq) para informar aos seguidores de determinado país sempre quando este ganhar medalhas.
-- [Task Manager](https://github.com/RuanTarcisio/TaskManager_back) - API para gerenciar Todos, uma api feita para registrar as Tasks, usando State Pattern, auditoria (hibernate-envers), em breve disponibilizado também o front-end.
+- [Task Manager (BackEnd)](https://github.com/RuanTarcisio/TaskManager_back) - API para gerenciar os Todos, uma api feita para registrar as Tasks, usando State Pattern, auditoria (hibernate-envers), em breve disponibilizado também o front-end.
+- [Task Manager (FrontEnd)](https://github.com/RuanTarcisio/TaskManager_front) - API front-end  (em desenvolvimento).
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RuanTarcisio&theme=blue-green&show_icons=true)
+
 
 ## 🔗 Entre em Contato:
 <div>
