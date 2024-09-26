@@ -25,8 +25,8 @@ Apaixonado por tecnologia e pelo desenvolvimento de softwares, com o propósito 
 
 
 ### 🌟 Projetos em Destaque
-- [Sistema de Gerenciamento da Olimpiada](https://github.com/RuanTarcisio/olympic_medals) - Um sistema que gerencia tudo sobre a olimpiada, mensageria(rabbitmq) para informar seguidores de determinado pais sempre quando ganharem medalhas.
-
+- [Sistema de Gerenciamento da Olimpiada](https://github.com/RuanTarcisio/olympic_medals) - Um sistema que gerencia tudo sobre a olimpiada, mensageria(rabbitmq) para informar aos seguidores de determinado país sempre quando este ganhar medalhas.
+- [Task Manager](https://github.com/RuanTarcisio/TaskManager_back) - API para gerenciar Todos, uma api feita para registrar as Tasks, usando State Pattern, auditoria (hibernate-envers), em breve disponibilizado também o front-end.
 
 ## 🔗 Entre em Contato:
 <div>
