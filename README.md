@@ -24,6 +24,7 @@ Apaixonado por tecnologia e pelo desenvolvimento de softwares, com o propósito 
 ### 🌟 Projetos em Destaque
 - [Sistema de Gerenciamento da Olimpiada](https://github.com/RuanTarcisio/olympic_medals) - Um sistema que gerencia tudo sobre a olimpiada, mensageria(rabbitmq) para informar aos seguidores de determinado país sempre quando este ganhar medalhas.
 - [Task Manager (BackEnd)](https://github.com/RuanTarcisio/TaskManager_back) - API para gerenciar os Todos, uma api feita para registrar as Tasks, usando State Pattern, auditoria (hibernate-envers), em breve disponibilizado também o front-end.
+- [OrderFlow (FrontEnd)](https://github.com/RuanTarcisio/OrderFlow) - Estudo em para aplicação de conceitos de Design Patterns, MicroServiços, RabbitMQ, KeyCloak, Load Balance e outros. E-commerce em desenvolvimento
 - [Task Manager (FrontEnd)](https://github.com/RuanTarcisio/TaskManager_front) - API front-end  (em desenvolvimento).
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RuanTarcisio&theme=blue-green&show_icons=true)
